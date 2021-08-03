@@ -17,6 +17,7 @@ else:
 
 # poles where given
 p = [-2+4*i, -2-4*i, -10]
+
 K = cnt.place(A, B, p)
 
 # output to check if the poles are correct
