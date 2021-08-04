@@ -1,5 +1,4 @@
 import control as cnt
-from numpy import reshape
 A = 3
 B = 1
 R = 1
