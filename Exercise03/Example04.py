@@ -17,7 +17,6 @@ if abs(Mcdet) > 1e-5:
     print("K = ", K)
 else:
     print("System is not controllable")
-
 # new A for the pole placement
 C = [1, 0]
 # check observability
